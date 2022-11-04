@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.leuris4.navaja_suiza"
     },
     "web": {
       "favicon": "./assets/favicon.png"
